@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Introduction */
 #introduction {
-  background-color: #FFD;
+  background-color: #FFF6DD;
 }
 #registrationLink {
   margin: 0px auto;
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Startups*/
 #startups {
-  background-color: #FFD;
+  background-color: #FFF6DD;
 }
 .profilePhoto {
   display: block;
