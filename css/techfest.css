@@ -7,18 +7,20 @@ section {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Dosis";
   color: #E50;
+  margin-top: 20px;
 }
 
 /* Hero */
 #hero {
   padding-bottom: 10px;
 }
-#title {
-  font-size: 100px;
+#logo {
+  max-height: 400px;
+  margin: 10px auto;
 }
 
 /* Event Details*/
-#eventDetails {  
+#eventDetails {
   background-color: #FA3;
   color: #FFF;
 }
