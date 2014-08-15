@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 .thumbLogo {
   display: block;
   max-height: 100%;
+  max-width: 100%;
   margin: 0px auto;
 }
 
@@ -99,14 +100,8 @@ h1, h2, h3, h4, h5, h6 {
 /* Registration */
 #registrationFrame {
   width: 100%;
-  height: 1200px;
+  height: 600px;
 }
-@media (min-width: 768px) { #registrationFrame {
-  height: 450px;
-}}
-@media (min-width: 992px) { #registrationFrame {
-  height: 400px;
-}}
 
 /* Footer */
 footer {
