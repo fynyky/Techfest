@@ -59,18 +59,21 @@ section {
   margin: 0px auto;
 }
 
-/* Startups*/
-#startups {
+/* speakers */
+#speakers {
   background-color: #FA3;
   color: #FFF;
 }
-#startups h1,
-#startups h2,
-#startups h3,
-#startups h4,
-#startups h5,
-#startups h6 {
+#speakers h1,
+#speakers h2,
+#speakers h3,
+#speakers h4,
+#speakers h5,
+#speakers h6 {
   color: #FFF;
+}
+.profile {
+  height: 250px;
 }
 .profile-photo {
   display: block;
@@ -94,22 +97,6 @@ section {
 #location-description {
   background: rgba(255,255,255,0.9);
   padding: 15px;
-}
-
-.location-image {
-  height: 300px;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-#location-image1 {
-  background-image: url(../images/location1.jpg);
-}
-#location-image2 {
-  background-image: url(../images/location2.jpg);
-}
-#location-image3 {
-  background-image: url(../images/location3.jpg);
 }
 
 /* Registration */
