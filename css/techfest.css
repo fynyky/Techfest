@@ -50,7 +50,7 @@ section {
 /* Companies */
 .logo-container {
   height: 50px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 .company-logo {
   display: block;
@@ -61,19 +61,14 @@ section {
 
 /* speakers */
 #speakers {
-  background-color: #FA3;
-  color: #FFF;
+  background-color: #FFF6DD;
 }
-#speakers h1,
-#speakers h2,
-#speakers h3,
-#speakers h4,
-#speakers h5,
-#speakers h6 {
-  color: #FFF;
+#speakers h2{
+  margin-bottom: 40px;
 }
 .profile {
-  height: 250px;
+  /*height: 250px;*/
+  padding: 30px;
 }
 .profile-photo {
   display: block;
@@ -89,7 +84,7 @@ section {
 
 /* Location */
 #location {
-    background-image: url(../images/map.png);
+    background-image: url(../images/map.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     overflow:;
