@@ -78,6 +78,7 @@ section {
   height: 120px;
   width: 120px;
   margin: 15px auto;
+  cursor: pointer;
 }
 
 /* Schedule */
