@@ -1,3 +1,3 @@
 techfest
 ========
-Static site for Techfest.sg 2014 event
+Static site for [techfest.sg](http://techfest.sg) 2014 event
